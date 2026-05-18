@@ -17,7 +17,9 @@ A real-time, touchless home automation system bridging computer vision and embed
 
 > **Note:** The architecture processes live webcam frames and matches direct breadboard LED feedback loops instantly.
 
-https://github.com/user-attachments/assets/ad539b8e-744b-411a-b64e-10614d0b2857
+https://github.com/user-attachments/assets/5b1eb8cc-69af-440b-a41a-b5ffcf403e75
+
+
 
 ## System Architecture & Hardware
 
